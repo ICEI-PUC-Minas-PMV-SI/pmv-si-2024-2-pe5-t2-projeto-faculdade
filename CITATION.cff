@@ -2,21 +2,21 @@ cff-version: 1.0.1
 message: Please cite this software using these metadata.
 title:
 authors:
-  - family-names:
-    given-names:
-  - family-names:
-    given-names:
-  - family-names:
-    given-names:
-  - family-names:
-    given-names:
-  - family-names:
-    given-names:
-  - family-names:
-    given-names:
-  - family-names:
-    given-names:
-  - name-suffix: Professor XXXX
+  - family-names: Furtado de Souza
+    given-names: Amanda
+  - family-names: Lemos
+    given-names: Bárbara
+  - family-names: Tavares dos Reis
+    given-names: Diovana
+  - family-names: de Oliveira Martins Antonio
+    given-names: Gianluca
+  - family-names: de Sales Brito
+    given-names: Giovanny
+  - family-names: Costa Andrade
+    given-names: Pedro Henrique
+  - family-names: Cordeiro Medeiros
+    given-names: Romario
+  - name-suffix: Professor Alexandre Teixeira
     affiliation: PUC Minas
     family-names:
     given-names:
@@ -26,4 +26,4 @@ keywords:
 repository-code:
 license: CC-BY-4.0
 version: 1.0.0
-date-released: 2023-06-30
+date-released: 2024-12-09
